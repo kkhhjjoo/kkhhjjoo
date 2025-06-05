@@ -1,2 +1,2 @@
-<img src="https://simpleicons.org/icons/html5.svg" />
-<img src="https://simpleicons.org/icons/css.svg" />
+<img src="https://simpleicons.org/icons/html5.svg" width="100" height="100" />
+<img src="https://simpleicons.org/icons/css.svg" width="100" height="100" />
