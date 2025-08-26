@@ -8,3 +8,7 @@ Hyunjoo's Skill Set<br/>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)(https://github.com/kkhhjjoo)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourID&layout=compact)
+
+## Projects
+- 🛒 [Shopping Mall Demo](https://github.com/kkhhjjoo/2025-shopping-mall-fe)
+- ✅ [Todo App](https://github.com/kkhhjjoo/todolist-fe)
