@@ -5,7 +5,7 @@
 Hyunjoo's Skill Set<br/>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)(https://github.com/kkhhjjoo)
+
 
 
 
@@ -13,10 +13,11 @@ Hyunjoo's Skill Set<br/>
 - 🛒 [Shopping Mall Demo](https://github.com/kkhhjjoo/2025-shopping-mall-fe)
 - ✅ [Todo App](https://github.com/kkhhjjoo/todolist-fe)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkhhjjoo&layout=compact)
- 
-<img src="https://github-readme-stats.vercel.app/api?username=kkhhjjoo&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=48% />
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kkhhjjoo&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=99.3%/>
-</a>
+ <div align="center" justify='center'>
+   <img src="https://github-readme-stats.vercel.app/api?username=kkhhjjoo&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=48% />
+   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width=51% />
+   
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kkhhjjoo&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=99.3%/>
+   </a>
+</div>
