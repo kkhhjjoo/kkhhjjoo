@@ -12,8 +12,8 @@ Hyunjoo's Skill Set<br/>
 
 
 ## Projects
-- 🛒 [Shopping Mall Demo](https://github.com/kkhhjjoo/2025-shopping-mall-fe)
-- 🛒 [Shopping Mall Demo](https://github.com/kkhhjjoo/2025-shopping-mall-be)
+- 🛒 [Shopping Mall FE Demo](https://github.com/kkhhjjoo/2025-shopping-mall-fe)
+- 🛒 [Shopping Mall BE Demo](https://github.com/kkhhjjoo/2025-shopping-mall-be)
 - ✅ [Todo App](https://github.com/kkhhjjoo/todolist-fe)
 
  <div align="center" justify='center'>
