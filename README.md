@@ -23,4 +23,4 @@ Hyunjoo's Skill Set<br/>
    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kkhhjjoo&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=99.3%/>
    </a>
-</div>](https://github-readme-stats.vercel.app/api?username=kkhhjjoo)](https://github-readme-stats.vercel.app/api?username=kkhhjjoo)
+</div>
